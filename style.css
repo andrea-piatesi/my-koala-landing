@@ -1,0 +1,15 @@
+@import url("components/banner.css");
+@import url("components/cards.css");
+@import url("components/section.css");
+@import url("components/koala-card.css");
+@import url("components/form-section.css");
+@import url("components/carousel.css");
+
+html {
+scroll-behavior: smooth;
+}
+
+body {
+	font-family: 'Noto Sans KR', sans-serif;
+}
+
