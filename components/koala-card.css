@@ -1,0 +1,19 @@
+.koala-card {
+	display:flex;
+	align-items: center;
+
+}
+
+.koala-card i {
+	font-size: 28px;
+	margin-right: 15px;
+	color: #E9C46A;
+}
+
+.koala-card p {
+	color: #E5E5E5;
+}
+
+.koala-card h3 {
+	font-size: 22px;
+}
